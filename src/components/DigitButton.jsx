@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import { ACTIONS } from "./action";
+import { ACTIONS } from "../utilities/action";
 
 export default function DigitButton({ dispatch, digit }) {
   return (
